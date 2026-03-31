@@ -1,0 +1,24 @@
+:root{
+    --primary: rgb(136, 255, 0);
+    --text-sm:50px
+}
+
+
+.btn{
+    
+    
+    font-size: var(--text-sm);
+    background-color:var(--primary)
+}
+.btn{
+  
+    
+    background-color: var(--primary)
+}
+
+.btn{
+   
+    padding: 20px;
+    background-color:var(--primary)
+}
+

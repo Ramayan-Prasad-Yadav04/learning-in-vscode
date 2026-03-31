@@ -1,0 +1,29 @@
+.parent{
+    align-items: baseline;
+    background-color: aqua;
+    display: flex;
+
+}
+
+.one, 
+.two,
+.three {
+    
+    
+    width: 100px;
+}
+
+.one{
+    height: 5opx;
+    font-size: 100px;
+    background-color: blueviolet;
+}
+
+.two{
+    height: 150px;
+    background-color: blue;
+}
+.three{
+height: 150px;
+    background-color: brown;
+}

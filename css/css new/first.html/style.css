@@ -1,0 +1,10 @@
+body{ 
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: #fa8476;
+}
+
+.class {
+    width: 400px;
+    background-color: white;
+    padding: 10px;
+}

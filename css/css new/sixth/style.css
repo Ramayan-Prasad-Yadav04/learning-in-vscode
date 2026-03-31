@@ -1,0 +1,26 @@
+body{font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+margin: 20px;}
+
+.content{
+    background-color: darkseagreen;
+    box-sizing: content-box;
+    height: 300px;
+    width: 500px;
+    border: 10px solid black;
+    padding: 10px;
+
+}
+
+.box{
+    background-color: chartreuse;
+    height: 150px;
+    width: 300px;
+    display: flex;
+    justify-content: center;
+    justify-items: center;
+    justify-self: center;
+    padding: 30px;
+    margin: 40px;
+    border-radius: 10px 40px;
+    box-shadow:inset;
+}

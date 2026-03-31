@@ -1,0 +1,21 @@
+body{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+
+
+.content{
+
+    background-color: rgb(186, 226, 43);
+    color: brown;
+    padding: 7px 10px 7px 10px;
+    
+}
+
+
+padding-top: 10px;
+    padding-right: 20px;
+    padding-bottom: 30px;
+    padding-left: 30px;
+
+    upper wala content ke andar dalega tobhi kaam ho jaaega baki hum abhi shortcut use kr ::-moz-range-thumb

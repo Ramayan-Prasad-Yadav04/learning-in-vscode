@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <link rel="stylesheet" href="style.css">
+  <title>Card UI</title>
+  <style>
+    body {
+      margin: 0;
+      height: 100vh;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      background-color: #71f4a8;
+      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+      
+    }
+
+    .card-container {
+      position: relative;
+    }
+
+    .card-shadow {
+      position: absolute;
+      top: 10px;
+      left: 10px;
+      width: 300px;
+      height: 400px;
+      background-color: #7ff4a6;
+      border-radius: 10px;
+    }
+
+    .card {
+      position: relative;
+      width: 300px;
+      padding: 20px;
+      background-color: white;
+      border-radius: 10px;
+      z-index: 1;
+    }
+
+    .card h2 {
+      margin: 0;
+      font-size: 1.4em;
+    }
+
+    .divider {
+      height: 3px;
+      background-color: #f471bd;
+      margin: 10px 0;
+    }
+
+    .card p {
+      font-size: 0.9em;
+      color: #444;
+      line-height: 1.4em;
+    }
+
+    .button {
+      margin-top: 15px;
+      padding: 10px 20px;
+      background-color: #f47d71;
+      color: white;
+      border: none;
+      cursor: pointer;
+    }
+
+    .button:hover {
+      background-color: #62cae9;
+    }
+  </style>
+</head>
+<body>
+  <div class="card-container">
+    <div class="card-shadow"></div>
+    <div class="card">
+      <h2>Card</h2>
+      <div class="divider"></div>
+      
+     
+      
+      <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Pariatur iste reiciendis sint ratione! Modi ipsa voluptates architecto nam sequi dolor inventore quam velit aliquid harum, debitis temporibus praesentium. Rem, explicabo.</p>
+        
+        
+    </div>
+  </div>
+</body>
+</html>

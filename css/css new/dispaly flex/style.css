@@ -1,0 +1,35 @@
+.parent{
+    height: 300px;
+    background-color: rgb(31, 179, 199);
+    display:flex;
+    flex-direction: 
+    column-reverse;
+}
+
+.one{
+    background-color: blueviolet;
+    height: 100px;
+    width: 100px;
+
+}
+
+.two{
+    background-color: aqua;
+    height: 100px;
+    width: 100px;
+}
+
+
+.three{
+    background-color: rgb(43, 226, 98);
+    height: 100px;
+    width: 100px;
+
+}
+
+.four{
+    background-color: rgb(192, 243, 9);
+    height: 100px;
+    width: 100px;
+
+}

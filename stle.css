@@ -1,0 +1,15 @@
+img{
+    filter: drop-shadow(10px 10px #000);
+}
+
+
+
+button{
+    background-color: aquamarine;
+    height: 50px;
+    width: 100px;
+}
+
+body{
+    background-color: blue;
+}
